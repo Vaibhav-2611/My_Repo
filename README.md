@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Vaibhav-2611
-- 👀 I’m interested in developing and testing of softwares
-- 🌱 I’m currently learning JUnit, Selenium, TestNG, Java,
-- 💞️ I’m looking to collaborate on testing and development 
-- 📫 You can reach me via vaibhav_sharm@outlook.com
+# Hi there, I'm Vaibhav! 👋
 
-<!---
-Vaibhav-2611/Vaibhav-2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently pursuing a Bachelor's in Design & Computer Science from BITS Pilani (WILP).
+- 🖥️ I work as a software tester specializing in accessibility testing at HCLTech.
+- 👀 I’m passionate about developing and testing software applications.
+- 🌱 I’m dedicated to crafting digitally accessible products to simplify people's lifestyles.
+- 💞️ I’m enthusiastic about collaborating on testing and development projects.
+- 📫 You can reach out to me at vaibhav_sharm@outlook.com.
+
+Let's connect and innovate together! 😊
