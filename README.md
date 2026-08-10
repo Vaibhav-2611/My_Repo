@@ -79,26 +79,31 @@ Each badge includes a readable label and the technology's own logo color, instea
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
+## 🔄 How I Work
+
+| Step | What it looks like |
+|---|---|
+| 1. Understand | Learn the product, users, journeys, constraints, and applicable accessibility requirements |
+| 2. Evaluate | Combine automated checks, manual keyboard testing, assistive-technology testing, and code review |
+| 3. Explain | Document the impact, affected users, reproduction steps, requirement mapping, and severity |
+| 4. Enable | Give teams practical remediation guidance, examples, and reusable patterns |
+| 5. Verify | Retest fixes, check regressions, and help establish repeatable accessibility checks |
+
+## 🌱 Accessibility Principles
+
+- **Start early:** Include accessibility in discovery, design, component planning, and definition of done.
+- **Test with people and tools:** Automated scans are useful, but they cannot replace manual and assistive-technology testing.
+- **Prefer native HTML:** Semantic elements provide reliable structure, behavior, and communication to assistive technologies.
+- **Make defects actionable:** A good finding explains the barrier, impact, location, reproduction steps, and practical fix.
+- **Design for flexibility:** Support different input methods, text sizes, contrast needs, devices, and ways of perceiving information.
+- **Share ownership:** Accessibility works best when product, design, engineering, QA, and content teams contribute together.
+
 ## 🚀 Current Focus
 
 - 🌐 Building my personal portfolio at [sharmavaibhav.site](https://sharmavaibhav.site/)
 - 📝 Documenting accessibility audits, patterns, and remediation walkthroughs
 - 🧩 Exploring accessible design systems and reusable component patterns
 - 🤝 Open to accessibility consulting, audits, collaboration, and speaking opportunities
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibosnikov&show_icons=true&hide_border=true&bg_color=0B132B&title_color=67E8F9&icon_color=2DD4BF&text_color=CBD5E1&count_private=true" alt="Vaibhav's GitHub statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibosnikov&layout=compact&hide_border=true&bg_color=0B132B&title_color=67E8F9&text_color=CBD5E1" alt="Vaibhav's most used languages" width="48%" />
-</p>
-
-<details>
-<summary><strong>Why some animations were removed</strong></summary>
-
-GitHub profile READMEs do not support custom CSS or JavaScript, and third-party animated SVG widgets can be blocked, cached, or fail to render. This version keeps the reliable wave banner and uses accessible static badges with meaningful labels and alt text, so the profile still looks polished when external animation services are unavailable.
-
-</details>
 
 ## 📬 Connect
 
